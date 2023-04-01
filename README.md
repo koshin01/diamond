@@ -29,16 +29,14 @@ Token address: 0x268CB111fE5ae7fAA307A6eD17d92511F0579011
 
 5. MetaMask に発行したトークンをインポートして👇 のようになっていたら成功です！
 <br>
-<br>
 <image alt = "MetaMask にDIAMONDトークンをインポートした結果" src = "support/diamond_token_in_metamask.jpg" width = "50%">
 
 ## **🤔 Q&A**
 ### **Alcamy のアクセスポイントを用意するには？**
-1. [Alcamy ](https://dashboard.alchemy.com/)にアクセスし、Alcamy アカウントを作成します。
+1. [Alcamy ](https://dashboard.alchemy.com/)アカウントを作成します。
 
 2. 「\+ CREATE APP」 ボタンから、App を作成しましょう！
 3. 作成できたらVIEW KEY を押してHTTPS のURL がAlcamy のアクセスポイントです！
-<br>
 <br>
 <image alt = "Alcamy でApp URL を入手する方法" src = "support/alcamy_preview_URL.jpg" width = "50%">
 
@@ -49,13 +47,11 @@ Token address: 0x268CB111fE5ae7fAA307A6eD17d92511F0579011
 
 3. アカウントの詳細から、アドレスの秘密鍵をエクスポートすると、秘密鍵を取得できます！
 <br>
-<br>
 <image alt = "MetaMask で秘密鍵を取得する方法" src = "support/how_to_export.jpg" width = "50%">
 
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
-👇 からSepolia に切り替えてください！
-<br>
+👇 のようにSepolia に切り替えてください！
 <br>
 <image alt = "ネットワークを切り替える" src = "support/about_network.jpg" width = "50%">
 
