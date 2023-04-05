@@ -29,7 +29,7 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 
 5. MetaMask に発行したトークンをインポートして👇 のようになっていたら成功です！
 <br>
-<image alt = "MetaMask にDIAMONDトークンをインポートした結果" src = "support/result.jpg" width = "50%">
+<image alt = "MetaMask にDIAMONDトークンをインポートした結果" src = "img/result.jpg" width = "50%">
 
 ## **🤔 Q&A**
 ### **Alcamy のアクセスポイントを用意するには？**
@@ -38,7 +38,7 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 2. 「\+ CREATE APP」 ボタンから、App を作成しましょう！
 3. 作成できたらVIEW KEY を押してHTTPS のURL がAlcamy のアクセスポイントです！
 <br>
-<image alt = "Alcamy でApp URL を入手する方法" src = "support/how_to_get_URL.jpg" width = "50%">
+<image alt = "Alcamy でApp URL を入手する方法" src = "img/how_to_get_URL.jpg" width = "50%">
 
 ### **アドレスの秘密鍵を用意するには？**
 1. [MetaMask](https://metamask.io/) をインストールします！
@@ -47,14 +47,14 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 
 3. アカウントの詳細から、アドレスの秘密鍵をエクスポートすると、秘密鍵を取得できます！
 <br>
-<image alt = "MetaMask で秘密鍵を取得する方法" src = "support/how_to_get_private_key.jpg" width = "50%">
+<image alt = "MetaMask で秘密鍵を取得する方法" src = "img/how_to_get_private_key.jpg" width = "50%">
 
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
 👇 のようにSepolia に切り替えてください！
 
 <br>
-<image alt = "ネットワークを切り替える" src = "support/network.jpg" width = "50%">
+<image alt = "ネットワークを切り替える" src = "img/network.jpg" width = "50%">
 
 Sepolia がない場合は、原因は2つ考えられます<br>
 
