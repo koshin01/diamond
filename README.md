@@ -52,6 +52,7 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
 👇 のようにSepolia に切り替えてください！
+
 <br>
 <image alt = "ネットワークを切り替える" src = "support/network.jpg" width = "50%">
 
