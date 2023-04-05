@@ -24,7 +24,7 @@ YOUR_PRIVATE_SEPOLIA_ACCOUNT_KEY=<用意したアドレスの秘密鍵>
 ```
 Deploying contracts with the account: <あなたのブロックチェーンアドレス>
 Account balance: <あなたのブロックチェーンアドレスに入ってるSepolia ETH の残高>
-Token address: <できたて、ほやほやのトークンのアドレス>
+Token address: <できたてほやほやのトークンのアドレス>
 ```
 
 5. MetaMask に発行したトークンをインポートして👇 のようになっていたら成功です！
@@ -33,7 +33,7 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 
 ## **🤔 Q&A**
 ### **Alcamy のアクセスポイントを用意するには？**
-1. [Alcamy ](https://dashboard.alchemy.com/)アカウントを作成します。
+1. [Alcamy](https://dashboard.alchemy.com/) アカウントを作成します。
 
 2. 「\+ CREATE APP」 ボタンから、App を作成しましょう！
 3. 作成できたらVIEW KEY を押してHTTPS のURL がAlcamy のアクセスポイントです！
@@ -48,6 +48,10 @@ Token address: <できたて、ほやほやのトークンのアドレス>
 3. アカウントの詳細から、アドレスの秘密鍵をエクスポートすると、秘密鍵を取得できます！
 <br>
 <image alt = "MetaMask で秘密鍵を取得する方法" src = "img/how_to_get_private_key.jpg" width = "50%">
+
+### **コントラクトがデプロイできない！**
+コントラクトがデプロイできない原因は、たぶんあなたのブロックチェーンアドレスに入ってるSepolia ETH が足りないからです。
+なので[Alcamy が提供しているFauset](https://sepoliafaucet.com/) を利用して、Sepolia ETH を手に入れましょう！
 
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
