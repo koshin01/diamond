@@ -22,9 +22,9 @@ YOUR_PRIVATE_SEPOLIA_ACCOUNT_KEY=<用意したアドレスの秘密鍵>
 👇 のようになるはずです！
 
 ```
-Deploying contracts with the account: 0x067D8010953549D736bef29bab56Ec5c8B425609
-Account balance: 0.496656057876210548
-Token address: 0x268CB111fE5ae7fAA307A6eD17d92511F0579011
+Deploying contracts with the account: <あなたのブロックチェーンアドレス>
+Account balance: <あなたのブロックチェーンアドレスに入ってるSepolia ETH の残高>
+Token address: <できたて、ほやほやのトークンのアドレス>
 ```
 
 5. MetaMask に発行したトークンをインポートして👇 のようになっていたら成功です！
