@@ -51,7 +51,7 @@ Token address: <できたてほやほやのトークンのアドレス>
 
 ### **コントラクトがデプロイできない！**
 コントラクトがデプロイできない原因は、たぶんあなたのブロックチェーンアドレスに入ってるSepolia ETH が足りないからです。
-なので[Alcamy が提供しているFauset](https://sepoliafaucet.com/) を利用して、Sepolia ETH を手に入れましょう！
+なので、[Alcamy が提供しているFauset](https://sepoliafaucet.com/) を利用して、Sepolia ETH を手に入れましょう！
 
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
