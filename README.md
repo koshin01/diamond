@@ -40,6 +40,7 @@ Token address: <できたてほやほやのトークンのアドレス>
 <br>
 <image alt = "Alcamy でApp URL を入手する方法" src = "img/how_to_get_URL.jpg" width = "50%">
 
+
 ### **アドレスの秘密鍵を用意するには？**
 1. [MetaMask](https://metamask.io/) をインストールします！
 
@@ -49,9 +50,18 @@ Token address: <できたてほやほやのトークンのアドレス>
 <br>
 <image alt = "MetaMask で秘密鍵を取得する方法" src = "img/how_to_get_private_key.jpg" width = "50%">
 
+
+### **npm install ができない！**
+npm install ができない！？<br>
+そんなときは、`node -v` の実行結果と、[Node.js](https://nodejs.org/ja) のウェブサイトと推奨バージョンが合ってるか確認しましょう！<br>
+そもそも、Node.js が環境にインストールされていない場合は、Volta というNode.js バージョン管理ツールを使ってインストールするのがオススメです！<br>
+[Volta](https://volta.sh) のウェブサイトにアクセスして、Volta をインストールしよう！
+
+
 ### **コントラクトがデプロイできない！**
-コントラクトがデプロイできない原因は、たぶんあなたのブロックチェーンアドレスに入ってるSepolia ETH が足りないからです。
+コントラクトがデプロイできない原因は、たぶんあなたのブロックチェーンアドレスに入ってるSepolia ETH が足りないからです。<br>
 なので、[Alcamy が提供しているFauset](https://sepoliafaucet.com/) を利用して、Sepolia ETH を手に入れましょう！
+
 
 ### **トークンが表示されない！**
 トークンが表示されない原因は、ネットワークがSepolia 以外になっている可能性が高いです。<br>
